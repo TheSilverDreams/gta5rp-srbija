@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Kako da počneš da igraš GTA 5 RP: vodič za početnike"
 description: "Kako igrati GTA 5 RP od nule: šta ti treba od igre i klijenta, kako da se registruješ na server i šta da radiš prvih sat vremena u gradu."

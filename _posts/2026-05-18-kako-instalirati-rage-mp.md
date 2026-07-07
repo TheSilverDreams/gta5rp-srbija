@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Kako da instaliraš RAGE MP: korak po korak"
 description: "Instalacija RAGE MP klijenta od download-a do prvog konektovanja na server: šta ti treba, gde se skida, koje greške da preskočiš i kako da uđeš u grad."
