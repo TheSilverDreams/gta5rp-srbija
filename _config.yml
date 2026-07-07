@@ -1,0 +1,26 @@
+title: "GTA 5 RP Srbija — vodiči i serveri"
+description: "Vodiči za GTA 5 RP na srpskom: RAGE MP, FiveM, balkanski serveri, frakcije, poslovi i saveti za početnike."
+url: "https://PLACEHOLDER.github.io"
+baseurl: "/gta5rp-srbija"
+lang: sr
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+timezone: Europe/Belgrade
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

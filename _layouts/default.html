@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">GTA 5 RP Srbija</a>
+    <nav>
+      <a href="{{ '/kako-poceti-gta-5-rp/' | relative_url }}">Za početnike</a>
+      <a href="{{ '/kako-instalirati-rage-mp/' | relative_url }}">RAGE MP</a>
+      <a href="https://bmrp.rs" rel="noopener">BMRP server</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p>GTA 5 RP Srbija · vodiči za roleplay na našem jeziku · <a href="https://bmrp.rs">BMRP — Kriminalni Beograd</a></p>
+  </footer>
+</body>
+</html>
