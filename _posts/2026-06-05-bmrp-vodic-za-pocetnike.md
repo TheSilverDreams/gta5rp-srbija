@@ -4,7 +4,7 @@ title: "BMRP vodič za početnike: od registracije do prve plate"
 description: "BMRP vodič za početnike: kako da se registruješ, uđeš na GTA 5 RP server sa mapom Beograda, nađeš prvi posao i zaradiš prvu platu bez banovanja."
 date: 2026-06-05
 slug: bmrp-vodic-za-pocetnike
-image: /assets/img/beograd-mapa.jpg
+image: /assets/img/bmrp-skupstina.jpg
 tags: [gta5rp, bmrp, pocetnici]
 ---
 

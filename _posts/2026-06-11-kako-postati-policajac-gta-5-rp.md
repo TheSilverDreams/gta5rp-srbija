@@ -4,7 +4,7 @@ title: "GTA 5 RP policija: kako da postaneš policajac"
 description: "Kako da postaneš policajac na GTA 5 RP serveru: uslovi, prijava, akademija i prve patrole. Šta te čeka u službi i zašto je to najbolji ulaz u RP."
 date: 2026-06-11
 slug: kako-postati-policajac-gta-5-rp
-image: /assets/img/policija-frakcije.jpg
+image: /assets/img/bmrp-skupstina.jpg
 tags: [gta5rp, policija, frakcije]
 ---
 

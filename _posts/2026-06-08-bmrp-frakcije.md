@@ -4,7 +4,7 @@ title: "Frakcije na BMRP serveru: policija, vojska, BIA i ekipe"
 description: "Frakcije na BMRP serveru objašnjene: Policija, Vojska, BIA, Hitna pomoć, trkači i kriminalne organizacije. Kako se ulazi i šta koja nudi igraču."
 date: 2026-06-08
 slug: bmrp-frakcije
-image: /assets/img/policija-frakcije.jpg
+image: /assets/img/bmrp-skupstina.jpg
 tags: [gta5rp, bmrp, frakcije]
 ---
 
