@@ -4,6 +4,7 @@ title: "Grand RP na srpskom? Šta da igraš ako tražiš domaći RP"
 description: "Grand RP nema srpski server: postoje EN, RU i DE gradovi. Šta Grand RP nudi, gde su granice i koja domaća RAGE MP alternativa radi na srpskom."
 date: 2026-06-22
 slug: grand-rp-alternativa
+image: /assets/img/fivem-vs-ragemp.jpg
 tags: [grandrp, ragemp, balkan]
 ---
 

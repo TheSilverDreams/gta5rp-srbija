@@ -4,6 +4,7 @@ title: "Mapa Beograda u GTA 5: kvartovi i lokacije koje znaš iz stvarnog život
 description: "Mapa Beograda u GTA 5 postoji: BMRP server menja Los Santos kastom mapom srpske prestonice. Kako to izgleda u igri i zašto menja ceo osećaj RP-a."
 date: 2026-07-02
 slug: bmrp-mapa-beograda
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, bmrp, beograd]
 ---
 

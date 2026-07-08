@@ -4,6 +4,7 @@ title: "Sistemski zahtevi za GTA 5 RP na RAGE MP platformi"
 description: "Koji ti računar treba za GTA 5 RP na RAGE MP: realni zahtevi za procesor, RAM i disk, zašto multiplayer traži više od singleplayera i gde je SSD presudan."
 date: 2026-05-27
 slug: rage-mp-sistemski-zahtevi
+image: /assets/img/ragemp-instalacija.jpg
 tags: [gta5rp, ragemp, zahtevi]
 ---
 

@@ -4,6 +4,7 @@ title: "RAGE MP serveri na Balkanu: gde se stvarno igra"
 description: "RAGE MP serveri na Balkanu: kakva je scena, po čemu prepoznaješ server koji vredi, i gde se na srpskom igra ozbiljan RP sa punim gradom svako veče."
 date: 2026-05-30
 slug: rage-mp-serveri-balkan
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, ragemp, balkan]
 ---
 

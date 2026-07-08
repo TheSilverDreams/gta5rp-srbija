@@ -4,6 +4,7 @@ title: "GTA 5 RP pravila: metagaming, powergaming, RDM i VDM"
 description: "GTA 5 RP pravila objašnjena na primerima: šta je metagaming, powergaming, RDM i VDM, zašto se za njih dobija ban i kako da ih ne prekršiš."
 date: 2026-05-17
 slug: gta-5-rp-pravila
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, pravila, pocetnici]
 ---
 

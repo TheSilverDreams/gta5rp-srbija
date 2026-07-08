@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Kako da napraviš dobrog lika za GTA 5 RP"
+title: "GTA 5 RP lik: kako da napraviš dobrog karaktera"
 description: "RP lik koji nije dosadan: kako da izabereš ime, priču i motivaciju za GTA 5 RP karaktera i zašto ti upravo to menja celo iskustvo igranja."
 date: 2026-05-25
 slug: kako-napraviti-lika-gta-5-rp
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, roleplay, pocetnici]
 ---
 

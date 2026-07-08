@@ -4,6 +4,7 @@ title: "Srpski GTA 5 serveri: gde da igraš na svom jeziku"
 description: "Srpski GTA 5 serveri: zašto jezik menja roleplay, kako da odvojiš ozbiljne projekte od onih koji nestanu za mesec i gde da počneš već večeras."
 date: 2026-06-12
 slug: srpski-gta-5-serveri
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, srbija, serveri]
 ---
 

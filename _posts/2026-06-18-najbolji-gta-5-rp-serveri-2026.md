@@ -4,6 +4,7 @@ title: "Najbolji GTA 5 RP serveri u 2026: balkanski izbor"
 description: "Najbolji GTA 5 RP serveri u 2026: šta nude NoPixel i veliki svetski projekti, po čemu se meri dobar server i koji je najjači izbor za Balkan."
 date: 2026-06-18
 slug: najbolji-gta-5-rp-serveri-2026
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, serveri, balkan]
 ---
 

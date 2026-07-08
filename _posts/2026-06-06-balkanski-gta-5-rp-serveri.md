@@ -4,6 +4,7 @@ title: "Balkanski GTA 5 RP serveri u 2026: šta se igra"
 description: "Balkanski GTA 5 RP serveri u 2026: kako izgleda scena, zašto projekti dolaze i odlaze, po čemu se prepoznaje ozbiljan server i gde da počneš."
 date: 2026-06-06
 slug: balkanski-gta-5-rp-serveri
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, balkan, serveri]
 ---
 

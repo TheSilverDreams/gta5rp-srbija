@@ -4,6 +4,7 @@ title: "Kako da se konektuješ na RAGE MP server preko IP adrese"
 description: "Direct Connect u RAGE MP objašnjen na primeru: kako uneseš IP i port, sačuvaš server u favorite i šta da proveriš kad server ne odgovara na konekciju."
 date: 2026-06-02
 slug: kako-se-konektovati-na-server
+image: /assets/img/ragemp-instalacija.jpg
 tags: [gta5rp, ragemp, balkan]
 ---
 

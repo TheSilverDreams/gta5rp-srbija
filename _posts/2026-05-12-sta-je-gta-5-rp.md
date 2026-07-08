@@ -4,6 +4,7 @@ title: "Šta je GTA 5 RP i kako funkcioniše roleplay"
 description: "GTA 5 RP objašnjen bez okolišanja: šta je roleplay server, kako izgleda igra, šta ti treba da počneš i gde se igra na srpskom."
 date: 2026-05-12
 slug: sta-je-gta-5-rp
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, roleplay, pocetnici]
 ---
 

@@ -4,6 +4,7 @@ title: "GTA 5 RP sa mapom Beograda: kako izgleda igranje kod kuće"
 description: "GTA 5 RP na mapi Beograda umesto Los Santosa: kako izgleda vožnja kroz grad koji znaš, zašto to menja roleplay i kako da uđeš na BMRP server."
 date: 2026-06-09
 slug: gta-5-rp-beograd
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, beograd, bmrp]
 ---
 

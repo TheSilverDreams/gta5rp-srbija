@@ -4,6 +4,7 @@ title: "Kriminalni RP: kako se igra kriminalac, a da te ne banuju"
 description: "Kriminalni RP vodič: kako da igraš kriminalca na GTA 5 RP serveru bez bana. Eskalacija, motiv, pravila i put od sitnog lopova do ozbiljne ekipe."
 date: 2026-06-14
 slug: kriminalni-rp-vodic
+image: /assets/img/policija-frakcije.jpg
 tags: [gta5rp, kriminal, pravila]
 ---
 

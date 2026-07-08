@@ -4,6 +4,7 @@ title: "Poslovi i karijere na BMRP: od taksiste do gazde biznisa"
 description: "Poslovi na BMRP serveru: čime početnik zarađuje prvu platu, kako se ulazi u frakcijsku karijeru i šta treba da postaneš gazda sopstvenog biznisa."
 date: 2026-06-28
 slug: bmrp-poslovi
+image: /assets/img/poslovi-novac.jpg
 tags: [gta5rp, bmrp, poslovi]
 ---
 

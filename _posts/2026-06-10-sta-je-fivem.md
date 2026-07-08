@@ -4,6 +4,7 @@ title: "Šta je FiveM i po čemu se razlikuje od RAGE MP"
 description: "Šta je FiveM, kako radi, šta se desilo kad ga je Rockstar kupio i po čemu se razlikuje od RAGE MP platforme. Poređenje bez navijanja, za igrače."
 date: 2026-06-10
 slug: sta-je-fivem
+image: /assets/img/fivem-vs-ragemp.jpg
 tags: [fivem, ragemp, gta5rp]
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "10 grešaka koje prave početnici na GTA 5 RP serverima"
+title: "GTA 5 RP greške: 10 stvari koje početnici rade pogrešno"
 description: "GTA 5 RP saveti iz prakse: 10 grešaka koje početnici prave prvih nedelja, od nečitanja pravila do pogrešnog trošenja para, i kako da ih preskočiš."
 date: 2026-05-28
 slug: gta-5-rp-greske-pocetnika
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, pocetnici, saveti]
 ---
 

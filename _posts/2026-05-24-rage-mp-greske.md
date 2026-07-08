@@ -4,6 +4,7 @@ title: "RAGE MP neće da se pokrene? Rešenja za najčešće greške"
 description: "RAGE MP ne radi, kraši ili ga blokira antivirus? Prolazimo najčešće greške i rešenja: Defender, administrator, verifikacija fajlova, drajveri i modovi."
 date: 2026-05-24
 slug: rage-mp-greske
+image: /assets/img/ragemp-instalacija.jpg
 tags: [gta5rp, ragemp, greske]
 ---
 

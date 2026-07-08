@@ -4,6 +4,7 @@ title: "FiveM Srbija: šta postoji i koja je alternativa"
 description: "FiveM Srbija: kakvi srpski serveri trenutno postoje, zašto se često gase i koja RAGE MP alternativa nudi stabilan RP na srpskom sa mapom Beograda."
 date: 2026-06-16
 slug: fivem-srbija
+image: /assets/img/fivem-vs-ragemp.jpg
 tags: [fivem, srbija, gta5rp]
 ---
 

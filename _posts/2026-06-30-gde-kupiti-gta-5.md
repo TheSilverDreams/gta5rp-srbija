@@ -4,6 +4,7 @@ title: "Gde da kupiš GTA 5 i koja ti verzija treba za RP"
 description: "Gde da kupiš GTA 5 za RP servere: Steam, Rockstar ili Epic, koja verzija radi sa RAGE MP, zašto piratska otpada i kako da uhvatiš dobar popust."
 date: 2026-06-30
 slug: gde-kupiti-gta-5
+image: /assets/img/poslovi-novac.jpg
 tags: [gta5rp, ragemp, pocetnici]
 ---
 

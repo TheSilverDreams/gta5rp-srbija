@@ -4,6 +4,7 @@ title: "Zašto ti treba Discord za GTA 5 RP i kako se koristi"
 description: "Discord je centar svakog GTA 5 RP servera: anonsi, podrška, traženje frakcija i ekipe. Evo kako se koristi i zašto bez njega igraš samo napola."
 date: 2026-07-05
 slug: gta-5-rp-discord
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, discord, zajednica]
 ---
 

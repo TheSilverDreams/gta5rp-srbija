@@ -4,6 +4,7 @@ title: "Kako da podigneš FPS u GTA 5 za RP servere"
 description: "GTA 5 optimizacija za RP servere: koja grafička podešavanja jedu FPS, šta da isključiš, kako drajveri i fullscreen mod utiču na performanse."
 date: 2026-06-26
 slug: gta-5-optimizacija-fps
+image: /assets/img/vozila-tuning.jpg
 tags: [gta5rp, ragemp, optimizacija]
 ---
 

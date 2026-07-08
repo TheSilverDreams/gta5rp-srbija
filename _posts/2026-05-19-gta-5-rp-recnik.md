@@ -4,6 +4,7 @@ title: "GTA 5 RP rečnik: IC, OOC, /me, /do i ostali termini"
 description: "RP termini objašnjeni na srpskom: šta znače IC, OOC, /me, /do, WL, NLR i ostale skraćenice koje ćeš sretati na svakom GTA 5 RP serveru."
 date: 2026-05-19
 slug: gta-5-rp-recnik
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, roleplay, pocetnici]
 ---
 

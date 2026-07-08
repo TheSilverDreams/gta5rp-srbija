@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Kako da počneš da igraš GTA 5 RP: vodič za početnike"
+title: "GTA 5 RP za početnike: kako da počneš da igraš"
 description: "Kako igrati GTA 5 RP od nule: šta ti treba od igre i klijenta, kako da se registruješ na server i šta da radiš prvih sat vremena u gradu."
 date: 2026-05-14
 slug: kako-poceti-gta-5-rp
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, ragemp, pocetnici]
 ---
 

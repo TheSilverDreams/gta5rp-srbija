@@ -4,6 +4,7 @@ title: "Da li je GTA 5 RP besplatan i šta ti sve treba"
 description: "Da li je GTA 5 RP besplatan? Realna računica: šta plaćaš jednom, šta je besplatno, šta su opcioni troškovi i kako da počneš bez bacanja para."
 date: 2026-05-31
 slug: da-li-je-gta-5-rp-besplatan
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, pocetnici, ragemp]
 ---
 

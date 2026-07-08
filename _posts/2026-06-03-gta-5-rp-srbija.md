@@ -4,6 +4,7 @@ title: "GTA 5 RP Srbija: serveri, zajednica i kako da počneš"
 description: "GTA 5 RP u Srbiji: gde se igra na srpskom, kakva je scena, šta ti treba za start i zašto BMRP sa mapom Beograda trenutno drži domaći roleplay."
 date: 2026-06-03
 slug: gta-5-rp-srbija
+image: /assets/img/beograd-mapa.jpg
 tags: [gta5rp, srbija, balkan]
 ---
 

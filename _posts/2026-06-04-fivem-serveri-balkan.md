@@ -4,6 +4,7 @@ title: "FiveM serveri na Balkanu - i šta da probaš pored njih"
 description: "FiveM serveri na Balkanu: šta trenutno postoji, kako da nađeš balkanski server u FiveM listi i koja RAGE MP alternativa radi stabilno na srpskom."
 date: 2026-06-04
 slug: fivem-serveri-balkan
+image: /assets/img/fivem-vs-ragemp.jpg
 tags: [fivem, balkan, gta5rp]
 ---
 

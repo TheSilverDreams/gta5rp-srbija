@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Kako da zaradiš novac na GTA 5 RP serveru"
+title: "GTA 5 RP novac: kako da zaradiš na serveru"
 description: "Kako da zaradiš novac na GTA 5 RP serveru: poslovi za početnike, frakcijske plate, biznisi i kriminal. Realan pregled sva četiri puta do para."
 date: 2026-06-24
 slug: kako-zaraditi-novac-gta-5-rp
+image: /assets/img/poslovi-novac.jpg
 tags: [gta5rp, novac, poslovi]
 ---
 

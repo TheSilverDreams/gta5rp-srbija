@@ -4,6 +4,7 @@ title: "453+ vozila na BMRP: kupovina, tuning i garaže"
 description: "BMRP ima 453+ realnih vozila: kako da kupiš prvi auto, gde se tjunira u mehaničarskim radionicama i zašto je garaža pola igre na RP serveru."
 date: 2026-06-20
 slug: bmrp-vozila
+image: /assets/img/vozila-tuning.jpg
 tags: [gta5rp, bmrp, vozila]
 ---
 

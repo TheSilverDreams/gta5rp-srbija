@@ -4,6 +4,7 @@ title: "Šta je RAGE MP i zašto se na njemu igra ozbiljan RP"
 description: "RAGE MP je besplatna multiplayer platforma za GTA V na kojoj rade veliki RP serveri. Kako radi, šta ti treba i zašto je baš ona standard za ozbiljan roleplay."
 date: 2026-05-15
 slug: sta-je-rage-mp
+image: /assets/img/ragemp-instalacija.jpg
 tags: [gta5rp, ragemp, balkan]
 ---
 

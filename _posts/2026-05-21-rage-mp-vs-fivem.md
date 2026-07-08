@@ -4,6 +4,7 @@ title: "RAGE MP ili FiveM: šta da izabereš za roleplay"
 description: "RAGE MP i FiveM bez navijanja: obe platforme su legalne i besplatne, ali se scene razlikuju. Poređenje performansi, servera i zajednica za RP igrače."
 date: 2026-05-21
 slug: rage-mp-vs-fivem
+image: /assets/img/fivem-vs-ragemp.jpg
 tags: [gta5rp, ragemp, fivem]
 ---
 

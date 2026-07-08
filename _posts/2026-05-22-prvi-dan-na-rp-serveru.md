@@ -4,6 +4,7 @@ title: "Prvi dan na RP serveru: šta da radiš kad uđeš u grad"
 description: "GTA 5 RP za početnika: šta da radiš prvog dana na serveru, kako da nađeš posao, koga da pitaš za pomoć i koje greške da preskočiš odmah."
 date: 2026-05-22
 slug: prvi-dan-na-rp-serveru
+image: /assets/img/gta5rp-osnove.jpg
 tags: [gta5rp, pocetnici, roleplay]
 ---
 
